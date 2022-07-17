@@ -12,8 +12,4 @@
     <PackageReference Include="SuperSimpleTcp" Version="2.6.1.1" />
   </ItemGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\serverForm\serverApp.csproj" />
-  </ItemGroup>
-
 </Project>
